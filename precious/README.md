@@ -25,99 +25,99 @@ Or install it yourself as:
 # variables
 use capitols
 
-Frodo is 8 years old
+    $ Frodo is 8 years old
 
 # strings
 use double quotes
 
-Frodo is "a hobbit"
+    $ Frodo is "a hobbit"
 
 # integers
 write normally
 
-Orcs are 2 big
+    $ Orcs are 2 big
 
 # commenting
 use the keywords: 'second breakfast', 'wear the ring'
 
-i love second breakfast Sam is going to be a number
-wear the ring Frodo
+    $ i love second breakfast Sam is going to be a number
+    $ wear the ring Frodo
 
 # puts
 use the keywords: 'bring forth the ring', 'says', 'screams', 'exclaims', 'sobbs' or 'coughs'
 
-bring forth the ring Frodo
-gandalf says "they're taking the hobbits to Isengard"
+    $ bring forth the ring Frodo
+    $ gandalf says "they're taking the hobbits to Isengard"
 
 # assignment
 use the keywords: 'is', 'has', 'are'
 
-Frodo is 8
-Elves are worried when they saw 7 hobbits approaching the lair
+    $ Frodo is 8
+    $ Elves are worried when they saw 7 hobbits approaching the lair
 
 # increment
 use the keywords: 'eats lembas bread', 'fortifies stronghold', 'rests', 'recieves Evenstar' or 'reforges Narsil'
 
-Frodo eats lembas bread
+    $ Frodo eats lembas bread
 
 # decrement
 use the keywords: 'runs out of lembas bread', 'lost' or 'hunted by orcs'
 
-Sam runs out of lembas bread
-Pippin gets hunted by orcs
+    $ Sam runs out of lembas bread
+    $ Pippin gets hunted by orcs
 
 # addition
 use the keywords: 'joins', 'and' or 'accompanies'
 
-Frodo joins the fellowship with a Nazgul
-Gollum and Frodo went inside mordor
+    $ Frodo joins the fellowship with a Nazgul
+    $ Gollum and Frodo went inside mordor
 
 # subtraction
 use the keywords: 'leaves the fellowship', 'stabs', 'banishes' or 'steals'
 
-Sam leaves the fellowship without telling Sam
-a Wraith accidentally stabs Sauron in the face at a really important business meeting
+    $ Sam leaves the fellowship without telling Sam
+    $ a Wraith accidentally stabs Sauron in the face at a really important business meeting
 
 # multiplication
 use the keywords: 'gives aid to', 'procreates' or 'bolsters'
 
-Arigorn bolsters Helmsdeep
+    $ Arigorn bolsters Helmsdeep
 
 # division
 use the keywords: 'decapitates' or 'dismembers'
 
-Gimly dismembers Legolas
+    $ Gimly dismembers Legolas
 
 # booleans
 use the keywords: 'precious' and 'not precious'
 
-Legolas is precious!
-but the Balrog is not precious
+    $ Legolas is precious!
+    $ but the Balrog is not precious
 
 # loops
 use the keywords: 'whilst' or 'during the journey'
 
-whilst Frodo climed as strong as he could, Saruman cried, nooo!!
+    $ whilst Frodo climed as strong as he could, Saruman cried, nooo!!
 
 # comparisons
 use keywords: 'as' or 'equal'
 
-Gollum equal Smeagol
+    $ Gollum equal Smeagol
 
 # greater/less than
 use keywords: 'stronger than' or 'more' and 'weaker than' or 'less'
 
-Bilbo ate more tree food than Treebeard
+    $ Bilbo ate more tree food than Treebeard
 
 # conditionals
 use keywords: 'does', 'if' or 'will'
 
-will Mary equal Pippin?
+    $ will Mary equal Pippin?
 
 # end
 use keywords: 'you shall not pass'
 
-you shall not pass
+    $ you shall not pass
 
 ## Development
 
