@@ -1,8 +1,8 @@
 # Precious
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/precious`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+I wanted to make a fun programming language so I did it.
+It's all my own, my precious... Precious is a LOTR esoteric programming language translator.
+Precious uses lore keywords and english to create simple programming functionality.
 
 ## Installation
 

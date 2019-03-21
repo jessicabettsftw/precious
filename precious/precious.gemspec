@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   It's all my own, my precious... Precious is a LOTR esoteric programming language translator.
   Precious uses lore keywords and english to create simple programming functionality. }
   spec.homepage      = "https://github.com/jessicabettsftw/precious"
-  #spec.license       = "MIT"
+  spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
