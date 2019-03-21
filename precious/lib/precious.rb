@@ -1,5 +1,6 @@
 require "precious/version"
 require "precious/parser.rb"
+require "precious/cli.rb"
 
 module Precious
   class Error < StandardError; end
