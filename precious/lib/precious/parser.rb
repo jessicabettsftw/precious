@@ -1,5 +1,3 @@
-require 'pry'
-
 class Parser
   WRITER_FILE = 'output.rb'
   # KEYWORDS

@@ -1,18 +1,26 @@
-# precious
+# Precious
 
-v3 Documentation:
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/precious`. To experiment with that code, run `bin/console` for an interactive prompt.
 
-Running the program
+TODO: Delete this and the text above, and describe your gem
 
-In precious.rb file:
-- specify the name of the file you would like to translate by setting the "reader_file" variable
-- specify the name of the file you would like to output code to by setting the "writer_file" variable
+## Installation
 
-Write Precious code in .precious file
+Add this line to your application's Gemfile:
 
-Run: ruby precious.rb
+```ruby
+gem 'precious'
+```
 
-Syntax:
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install precious
+
+##Syntax:
 
 #variables
 use capitols
@@ -111,4 +119,20 @@ use keywords: 'you shall not pass'
 
 you shall not pass
 
-WE INTENDED ON IMPLEMENTING FUNCTIONS
+## Development
+
+After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+
+To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/<github username>/precious. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## License
+
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Code of Conduct
+
+Everyone interacting in the Precious project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/<github username>/precious/blob/master/CODE_OF_CONDUCT.md).
